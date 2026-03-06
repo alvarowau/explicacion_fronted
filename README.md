@@ -132,11 +132,11 @@ para conectar las diferentes páginas del laboratorio.
 3.  Abrir el archivo:
 
     ```bash
-    index.html
+    index.html en el navegador.
     ```
 
 
-    en el navegador.
+
 
 Desde ahí se puede navegar entre los diferentes ejemplos.
 
