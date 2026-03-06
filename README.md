@@ -123,18 +123,18 @@ para conectar las diferentes páginas del laboratorio.
 
 1.  Clonar el repositorio:
 
-```{=html}
-```
+    ```bash
     git clone https://github.com/alvarowau/explicacion_fronted.git
+    ```
 
 2.  Entrar en la carpeta del proyecto.
 
 3.  Abrir el archivo:
 
-```{=html}
-<!-- -->
-```
+    ```bash
     index.html
+    ```
+
 
 en el navegador.
 
