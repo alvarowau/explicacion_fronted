@@ -136,7 +136,7 @@ para conectar las diferentes páginas del laboratorio.
     ```
 
 
-en el navegador.
+    en el navegador.
 
 Desde ahí se puede navegar entre los diferentes ejemplos.
 
