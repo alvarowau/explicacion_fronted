@@ -124,7 +124,6 @@ para conectar las diferentes páginas del laboratorio.
 1.  Clonar el repositorio:
 
 ```{=html}
-<!-- -->
 ```
     git clone https://github.com/alvarowau/explicacion_fronted.git
 
